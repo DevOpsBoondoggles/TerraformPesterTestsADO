@@ -1,0 +1,1 @@
+docker run -it -e AZP_URL=https://dev.azure.com/cloudkingdoms -e AZP_TOKEN=<token> -e AZP_AGENT_NAME=dockerlinuxjek -e AZP_POOL=Jekyll gabrielmccoll/jekylladoagent:latest
